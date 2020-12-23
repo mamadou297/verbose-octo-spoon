@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ProjectMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VersionMajor>2020</VersionMajor>
+  <VersionMinor>3</VersionMinor>
+  <VersionBuild>6</VersionBuild>
+  <VersionRevision>1</VersionRevision>
+  <Circuit />
+  <IsOpen>false</IsOpen>
+  <LastSave>2020-12-23T18:45:18.0806563+01:00</LastSave>
+  <Description>Aujourd'hui avec toute l'électronique embarquée dans nos véhicules ; l'usage d'un outil de diagnostic automobile est plus qu'indispensable. Le système OBD (obd1/obd2) de nos véhicules nous permet de détecter et de localiser une défaillance.</Description>
+  <AutomaticBackupRemoval>true</AutomaticBackupRemoval>
+  <RemoveBackupAfterDays>60</RemoveBackupAfterDays>
+  <BackupToKeepAtLeast>10</BackupToKeepAtLeast>
+  <FreshlyImported>false</FreshlyImported>
+  <ProjectStatsData>eyJMYXN0RXhwb3J0IjoiMjAyMC0xMi0yMiAyMzowMDowMCIsIlBhZ2VzQ291bnQiOjMsIlBhZ2VzUm93c0NvdW50IjoxMywiUHJvZHVjdHNDb3VudCI6MCwiQmxvZ1Bvc3RzQ291bnQiOjAsIlJTU1Bvc3RzQ291bnQiOjAsIlJlc3BvbnNpdmUiOnRydWV9</ProjectStatsData>
+</ProjectMetadata>
